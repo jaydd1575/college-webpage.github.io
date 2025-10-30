@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+
+.head{
+   font-size: 50px;
+   color: white;
+    background-color: darkblue;
+    height: 200px;
+    text-align: center;  
+}
+
+.title{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+   background-color: blue;
+    text-align: center; 
+    padding-top: 40px;
+    padding: 50px, 50px, 80px, 80px;  
+}
+
+.vision{
+    color: blue;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 3px solid #ddd;
+}
+
+.mission{
+    color:blue;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 3px solid #ddd;
+}
+
+.pso{
+    color: blue;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 3px solid #ddd;
+}
+
+.cos{
+    color: blue;
+   padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 3px solid #ddd;
+}
+
+.topr{
+    color: blue;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 3px solid #ddd;
+}
+
+.ul{
+    color: black;
+}
+
+footer{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
